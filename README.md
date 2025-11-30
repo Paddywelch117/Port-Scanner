@@ -1,4 +1,4 @@
-# PortScanner
+# Port Scanner
 
 A Basic port scanner to use on Linux.
 
